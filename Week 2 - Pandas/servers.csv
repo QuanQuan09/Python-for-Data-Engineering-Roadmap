@@ -1,0 +1,6 @@
+server,status,cpu
+WEB01,Up,35
+WEB02,Down,92
+WEB03,Up,45
+WEB04,Down,97
+WEB05,Up,88

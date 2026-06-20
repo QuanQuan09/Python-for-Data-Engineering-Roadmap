@@ -1,0 +1,9 @@
+server,status,cpu,team
+WEB01,Up,35,Web
+WEB02,Down,92,Web
+WEB03,Up,45,Database
+WEB04,Down,97,Database
+WEB05,Up,88,Web
+WEB06,Up,15,Application
+WEB07,Down,99,Application
+WEB08,Up,65,Database
