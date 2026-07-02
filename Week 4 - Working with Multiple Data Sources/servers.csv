@@ -1,0 +1,7 @@
+server_id,server_name,environment
+1,WEB01,Production
+2,WEB02,Production
+3,DB01,Development
+4,WEB03,Development
+5,APP01,Production
+6,APP02,Development
