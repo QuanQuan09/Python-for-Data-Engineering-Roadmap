@@ -1,0 +1,6 @@
+priority,Down,Up,Warning,Total
+Critical,4,0,0,4
+High,0,1,3,4
+Low,2,1,0,3
+Medium,1,1,2,4
+Total,7,3,5,15

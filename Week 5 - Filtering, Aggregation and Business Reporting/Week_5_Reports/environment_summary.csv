@@ -1,0 +1,3 @@
+environment,incident_count,critical_incidents,average_cpu_usage,highest_cpu_usage,average_resolution_minutes
+Development,6,0,76.5,90,38.33
+Production,6,2,80.0,95,46.67

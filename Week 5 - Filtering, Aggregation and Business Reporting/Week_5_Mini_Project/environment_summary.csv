@@ -1,0 +1,3 @@
+environment,incident_count,average_cpu,average_memory,high_cpu_servers,average_resolution_minutes
+Development,7,75.71,72.14,1,46.43
+Production,8,84.88,82.0,3,57.5

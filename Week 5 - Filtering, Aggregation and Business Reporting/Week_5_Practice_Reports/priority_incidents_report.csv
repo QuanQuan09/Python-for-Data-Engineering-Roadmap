@@ -1,0 +1,5 @@
+priority,incident_count,average_cpu,highest_cpu,average_resolution_minutes
+High,4,89.0,92,52.5
+Medium,4,77.5,81,27.5
+Critical,2,94.0,95,82.5
+Low,2,42.5,45,12.5

@@ -1,0 +1,4 @@
+team,incident_count,average_cpu,highest_cpu,average_memory,sla_breaches,average_resolution_minutes
+Web,6,82.5,97,79.5,2,53.33
+Application,5,75.8,93,74.2,2,55.0
+Database,4,83.75,94,78.25,1,47.5

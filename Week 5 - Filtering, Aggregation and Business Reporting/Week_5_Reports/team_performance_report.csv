@@ -1,0 +1,4 @@
+Team,Incident Count,Average CPU Usage,Highest CPU Usage,Average Memory Usage,Average Resolution Minutes
+Web,5,75.6,92,74.0,34.0
+Application,4,80.75,95,80.5,60.0
+Database,3,79.33,88,74.33,33.33

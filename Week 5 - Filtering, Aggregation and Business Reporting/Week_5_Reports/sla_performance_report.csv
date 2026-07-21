@@ -1,0 +1,4 @@
+team,total_incidents,sla_breaches,average_resolution_minutes,sla_compliant_incidents,sla_compliance_percentage
+Application,4,3,60.0,1,25.0
+Database,3,0,33.33,3,100.0
+Web,5,0,34.0,5,100.0
